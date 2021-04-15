@@ -1,5 +1,7 @@
 
 # 项目入口
+# hello word
+
 
 from view import View
 from bank import Bank
