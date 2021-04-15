@@ -1,7 +1,7 @@
 
 # 项目入口
 # hello word
-
+# 项思醒是女孩王# 项思醒是女孩王# 项思醒是女孩王
 
 from view import View
 from bank import Bank
